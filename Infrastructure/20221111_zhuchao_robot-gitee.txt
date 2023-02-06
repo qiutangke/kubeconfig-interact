@@ -1,0 +1,5 @@
+ServiceName: robot-gitee
+UserName: zhuchao
+Email: 353712216@qq.com
+Role: admin
+TimeLimit: 100

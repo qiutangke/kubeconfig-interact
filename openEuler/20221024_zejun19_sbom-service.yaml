@@ -1,0 +1,4 @@
+ServiceName: openeuler-sbom-service-production-environment
+UserName: zejun19
+Role: viewer
+TimeLimit: 365

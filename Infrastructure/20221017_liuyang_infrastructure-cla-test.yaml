@@ -1,0 +1,4 @@
+ServiceName: infrastructure-cla-test
+UserName: liuyang
+Role: viewer
+TimeLimit: 3

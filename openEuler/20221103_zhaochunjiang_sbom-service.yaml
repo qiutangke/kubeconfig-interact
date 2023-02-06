@@ -1,0 +1,5 @@
+ServiceName: openeuler-cn-north4-jenkins-2-internal-service
+UserName: zhaochunjiang
+Role: admin
+TimeLimit: 365
+Email: dakangsiji@163.com

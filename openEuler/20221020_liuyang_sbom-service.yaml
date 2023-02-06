@@ -1,0 +1,4 @@
+ServiceName: openeuler-sbom-service-production-environment
+UserName: liuyang
+Role: admin
+TimeLimit: 365

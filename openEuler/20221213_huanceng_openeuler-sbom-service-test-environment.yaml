@@ -1,0 +1,5 @@
+ServiceName: openeuler-sbom-service-test-environment
+UserName: huanceng
+Email: hhq0802@foxmail.com
+Role: viewer
+TimeLimit: 30

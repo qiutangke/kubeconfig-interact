@@ -1,0 +1,4 @@
+ServiceName: opengauss-hk-meetingserver
+UserName: zhuchao
+Role: admin
+TimeLimit: 20
