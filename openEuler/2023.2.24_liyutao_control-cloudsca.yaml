@@ -1,0 +1,5 @@
+ServiceName: control-cloudsca  
+UserName: liyutao    
+Email: 806750329@qq.com  
+Role: viewer # 申请角色；admin为拥有所有权限，developer为开发者权限，进入容器权限， viewer只能查看日志 
+TimeLimit: 365      
