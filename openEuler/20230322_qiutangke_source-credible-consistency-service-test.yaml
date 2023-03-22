@@ -1,4 +1,5 @@
-ServiceName: majun-source-credible-consisitency-test-environment
+Cluster: mindspore-hk-test-cluster 
+NameSpace: majun-source-credible-consisitency
 UserName: qiutangke
 Email: q_qiutangke@163.com
 Role: developer
