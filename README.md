@@ -31,14 +31,14 @@
   + yaml文件内容参考模板文件：详细见：[20221011_zhu_infra-scan-tools.yaml](https://github.com/Open-Infra-Ops/kubeconfig-interact/blob/main/doc/20221011_zhu_infra-scan-tools.yaml)
 
     ~~~yaml
-    ServiceName: infra-scan-tools  # 申请kubeconfig的服务名称，服务名称模板见：doc/ServiceName.txt
-    UserName: zhuchao99    # 用户名称；限制：由数字、小写字母组成，不能含有特殊字符，最长长度为20，不能包含大写字母。
-    Email: ****@163.com   # 用于接受kubeconfig的邮件
+    Cluster:  infra-**-cluster   # 集群名称
+    NameSpace: scan-*****        # 命名空间
+    UserName: zhuchao99          # 用户名称；限制：由数字、小写字母组成，不能含有特殊字符，最长长度为20，不能包含大写字母。
+    Email: ****@163.com          # 用于接受kubeconfig的邮件
     Role: admin/developer/viewer # 申请角色；admin为拥有所有权限，developer为开发者权限，进入容器权限， viewer只能查看日志 
-    TimeLimit: 7       # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
-    ~~~
-
-  + ServiceName详细见： [ServiceName](https://github.com/Open-Infra-Ops/kubeconfig-interact/blob/main/doc/ServiceName.txt)
+    TimeLimit: 7                 # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
+  ~~~
+  
 
 
 + 将yaml文件填写完成后，向FORK仓库提交后，需要再向本仓库`https://github.com/Open-Infra-Ops/kubeconfig-interact`创建PR请求。
@@ -54,7 +54,7 @@
 #### 3.管理员合并PR请求
 
 + 管理员根据系统检查结果，申请人属实等情况，自行判断进行PR合入。
-+ 管理员可以在PR中评论`\check`再次进行系统检查。
++ 管理员可以在PR中评论`/check`再次进行系统检查。
 
 #### 4.系统给用户发送邮件
 
