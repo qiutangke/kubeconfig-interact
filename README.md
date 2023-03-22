@@ -37,9 +37,7 @@
     Email: ****@163.com          # 用于接受kubeconfig的邮件
     Role: admin/developer/viewer # 申请角色；admin为拥有所有权限，developer为开发者权限，进入容器权限， viewer只能查看日志 
     TimeLimit: 7                 # 时间限制；单位：天；限制：必须为数字类型，不能小于0。
-  ~~~
-  
-
+  ~~
 
 + 将yaml文件填写完成后，向FORK仓库提交后，需要再向本仓库`https://github.com/Open-Infra-Ops/kubeconfig-interact`创建PR请求。
 
