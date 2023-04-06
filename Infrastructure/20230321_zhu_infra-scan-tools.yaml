@@ -1,5 +1,5 @@
-ServiceName: infra-monitor
+ServiceName: infra-scan-tools
 UserName: tomnewchao
 Email: tom_toworld@163.com
 Role: admin
-TimeLimit: 365
+TimeLimit: 30

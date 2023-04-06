@@ -1,5 +1,5 @@
 ServiceName: openeuler-hk-mail
-UserName: tom
+UserName: tomchao
 Email: 353712216@qq.com
 Role: admin
-TimeLimit: 30
+TimeLimit: 180
