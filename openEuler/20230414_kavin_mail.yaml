@@ -1,0 +1,6 @@
+Cluster: openeuler-hk-mail
+NameSpace: mail
+UserName: kavin
+Email: tom_toworld@163.com
+Role: admin
+TimeLimit: 180
