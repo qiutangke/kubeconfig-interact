@@ -1,0 +1,6 @@
+Cluster:  opengauss-hk-cluster
+NameSpace: mail
+UserName: zhuchao
+Email: tom_toworld@163.com
+Role: admin
+TimeLimit: 30
