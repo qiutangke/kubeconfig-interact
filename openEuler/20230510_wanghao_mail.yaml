@@ -1,4 +1,5 @@
-ServiceName: openeuler-hk-mail
+Cluster: openeuler-hk-new-cluster
+NameSpace: mail
 UserName: wanghao
 Email: shalldows@163.com
 Role: viewer
