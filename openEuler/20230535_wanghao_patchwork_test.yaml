@@ -1,4 +1,4 @@
-Cluster: mindspore-hk-osinfra-test-cluster
+Cluster: mindspore-hk-test-cluster
 NameSpace: patchwork
 UserName: wanghao
 Email: shalldows@163.com
