@@ -1,0 +1,6 @@
+Cluster:  opengauss-hk-cluster
+NameSpace: opengauss-repo-verify
+UserName: codechentao
+Email: 1203467115@qq.com
+Role: developer
+TimeLimit: 30
