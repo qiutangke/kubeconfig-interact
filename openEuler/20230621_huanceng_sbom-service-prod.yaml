@@ -1,0 +1,5 @@
+ServiceName: openeuler-sbom-service-production-environment
+UserName: huanceng
+Email: hhq0802@foxmail.com
+Role: viewer
+TimeLimit: 30
