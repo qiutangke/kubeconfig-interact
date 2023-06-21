@@ -1,5 +1,6 @@
-ServiceName: openeuler-sbom-service-production-environment
+Cluster: openeuler-hk-new-cluster
+NameSpace: openeuler-sbom-service
 UserName: huanceng
 Email: hhq0802@foxmail.com
-Role: viewer
+Role: developer
 TimeLimit: 30
