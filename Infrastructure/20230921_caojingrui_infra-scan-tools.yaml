@@ -1,0 +1,6 @@
+Cluster:  infra-hk-cluster
+NameSpace: scan-tools
+UserName: caojingrui
+Email: mscaojr@163.com
+Role: admin
+TimeLimit: 30
