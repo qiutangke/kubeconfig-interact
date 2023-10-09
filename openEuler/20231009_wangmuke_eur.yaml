@@ -1,0 +1,6 @@
+Cluster: openeuler-cn-north4-jenkins-cluster
+NameSpace: fedora-copr
+UserName: wangmuke    
+Email: shaodwaaron@gmail.com 
+Role: admin
+TimeLimit: 30    
