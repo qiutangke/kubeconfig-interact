@@ -1,0 +1,6 @@
+Cluster:  mindspore-hk-test-cluster
+NameSpace: openeuler-meetingserver
+UserName: zhuchao
+Email: tom_toworld@163.com
+Role: admin
+TimeLimit: 30

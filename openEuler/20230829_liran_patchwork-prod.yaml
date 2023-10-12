@@ -1,0 +1,6 @@
+Cluster: openeuler-cn-north4-jenkins-cluster
+NameSpace: patchwork
+UserName: liran
+Email: liran18919525979@163.com
+Role: admin
+TimeLimit: 30

@@ -1,0 +1,6 @@
+Cluster: openeuler-cn-north4-jenkins-cluster
+NameSpace: fedora-copr-prod
+UserName: lichaoran    
+Email: pkwarcraft@hotmail.com 
+Role: admin
+TimeLimit: 365      
