@@ -1,6 +1,6 @@
-Cluster: openeuler-cn4-x86-cluster
-NameSpace: repo-post-verification
-UserName: codechentao
-Email: 1203467115@qq.com
+Cluster: mindspore-hk-test-cluster
+NameSpace: majun-source-credible-consisitency
+UserName: qiutangke
+Email: q_qiutangke@163.com
 Role: developer
 TimeLimit: 30
