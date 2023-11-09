@@ -1,5 +1,5 @@
 Cluster: cce-icsl-hk-cluster
-NameSpace: mindspore-website
+NameSpace: opengauss-website
 UserName: zhongjun2
 Email: jun.zhongjun2@gmail.com
 Role: developer
